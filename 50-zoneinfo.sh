@@ -1,3 +1,2 @@
 # zoneinfo symlink
-# this command has to be run in chroot
-ln -sf /usr/share/zoneinfo/Europe/Paris
+arch-chroot /mnt ln -sf /usr/share/zoneinfo/Europe/Paris /etc/localtime

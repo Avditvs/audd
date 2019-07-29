@@ -1,3 +1,3 @@
 # mkinitcpio command
 # run in chroot env
-mkinitcpio -p linux
+arch-chroot /mnt mkinitcpio -p linux

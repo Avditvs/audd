@@ -1,5 +1,5 @@
 # installing polybar
-yay -s polybar-git
+yay -s polybar
 
 # installing st
 yay -s st-luke-git

@@ -22,7 +22,7 @@ ln -sf ~/dotfiles/.config/i3
 ln -sf ~/dotfiles/.config/polybar
 ln -sf ~/dotfiles/.config/rofi
 ln -sf ~/dotfiles/.config/.wallpaper
-
+ln -sf ~/dotfiles/.config/fontconfig
 
 
 

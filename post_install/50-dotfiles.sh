@@ -4,7 +4,7 @@ cd ~
 
 # removing already existing files
 rm -rf ~/.config/i3
-
+rm -rf ~/.config/fontconfig
 
 # making symlinks
 ln -sf ~/dotfiles/.aliases

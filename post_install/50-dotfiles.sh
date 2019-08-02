@@ -2,7 +2,8 @@
 git clone http://www.github.com/Avditvs/arch_rice ~/dotfiles
 cd ~
 
-
+# removing already existing files
+rm -rf ~/.config/i3
 
 
 # making symlinks
